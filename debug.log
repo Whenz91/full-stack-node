@@ -1,0 +1,6 @@
+[0623/195045.730:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Stanper\Reports\Dump: A rendszer nem találja a megadott elérési utat. (0x3)
+[0623/195045.770:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: A pipe használata befejezõdött. (0x6D)
+[0623/195045.775:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Stanper\Reports\Dump: A rendszer nem találja a megadott elérési utat. (0x3)
+[0623/200103.845:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Stanper\Reports\Dump: A rendszer nem találja a megadott elérési utat. (0x3)
+[0623/200103.851:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: A pipe használata befejezõdött. (0x6D)
+[0623/200103.852:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Stanper\Reports\Dump: A rendszer nem találja a megadott elérési utat. (0x3)
