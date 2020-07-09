@@ -1,3 +1,4 @@
 .env
 node_modules
 OLVASS_EL.txt
+public/uploads
